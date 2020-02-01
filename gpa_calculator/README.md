@@ -1,4 +1,4 @@
-﻿# gpa_calculator  🤓 🤟🌟 
+﻿# gpa_calculator  🤓 ✌️  🌟 
 
 A quick utility to check your GPA. Using this project you can check your GPA on the fly using a browser or through a CLI. Built and tested using Python ❤️ Jupyter Notebook ❤️ PyCharm  
 
